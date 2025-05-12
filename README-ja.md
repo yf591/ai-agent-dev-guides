@@ -7,7 +7,7 @@
 | 企業名   | ガイドタイトル                          | 公式リンク                                                         | 概要                                                                                                            |
 |----------|-----------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Google   | Prompting Guide                         | [PDF](https://t.co/WHTULBPqiM)                                     | Google Workspace向けプロンプト設計ガイド。ペルソナ・タスク分解・コンテキスト・フォーマット指定の4要素を軸に、Gmail/Docs/Sheetsなどとの連携例を収録。 |
-| Anthropic| Building Effective Agents               | [ウェブページ](https://t.co/lZFLcLo7fV)                            | LLMエージェント設計の基本原則を提示。ワークフローとエージェントの違い、ツール設計やサンドボックステストのベストプラクティスを解説。                 |
+| Anthropic| Building Effective Agents               | [WEB Page](https://t.co/lZFLcLo7fV)                            | LLMエージェント設計の基本原則を提示。ワークフローとエージェントの違い、ツール設計やサンドボックステストのベストプラクティスを解説。                 |
 | Anthropic| Prompt Engineering                      | [付録](https://t.co/uqxffQJyhh)                                    | ツール設計に特化した実践ガイド。JSON/Markdownなどのインタフェース設計や、コンテキスト管理・エスケープ処理のノウハウを含む。                        |
 | OpenAI   | A Practical Guide to Building Agents    | [PDF](https://t.co/5m0QKpFlVq)                                     | 製品開発チーム向けの実践マニュアル。ユースケース評価、エージェントロジック設計、安全性やコスト管理の具体例を網羅。                                 |
 | OpenAI   | Identifying and Scaling AI Use Cases    | [PDF](https://t.co/ADqD4OXhvA)                                  | 企業向けAI導入戦略ガイド。PoCから本番展開までのロードマップ、ROI計算モデルやリスク評価フレームワークを提示。                                        |
